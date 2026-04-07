@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Liang Guo (郭亮) 👋
 
-<!--
-**guoliang25/guoliang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Researcher at Tencent** | Shenzhen, China
 
-Here are some ideas to get you started:
+🔬 8+ years in **Recommendation Systems** & **Computational Advertising**, covering the full pipeline of retrieval, pre-ranking, ranking, and feature engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 M.S. from **National University of Defense Technology (NUDT)** · B.S. from **Beijing University of Posts and Telecommunications (BUPT)**
+
+### 🏷️ Research Interests
+`Recommendation Systems` `Computational Advertising` `Deep Learning` `NLP` `LLM` `Multi-Objective Optimization` `Multimodal Understanding`
+
+### 🏆 Highlights
+- 📄 **21 patents filed** (4 granted) as first inventor
+- 🏅 Selected for **Shenzhen Innovation Center Expert Talent Pool** (2022)
+- ⭐ Tencent Annual **Outstanding Expert** on internal consulting platform (2023, rated 98.55/100)
+- 🥇 Tencent 4/5-Star Employee for multiple consecutive years
+
+### 📈 Side Interests
+- Quantitative Trading — RL-based strategies & multi-factor models for A-shares
+- Robotics — ROS2-based intelligent robot platform & LLM-driven task planning
+
+### 📫 Links
+- 🌐 **Homepage**: [guoliang25.github.io](https://guoliang25.github.io/)
+- 🎓 **Google Scholar**: [publications](https://scholar.google.com.hk/citations?user=Jbek4AQAAAAJ)
+- ✉️ **Email**: guoliang0803@gmail.com
