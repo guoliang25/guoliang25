@@ -22,4 +22,4 @@
 ### 📫 Links
 - 🌐 **Homepage**: [guoliang25.github.io](https://guoliang25.github.io/)
 - 🎓 **Google Scholar**: [publications](https://scholar.google.com.hk/citations?user=Jbek4AQAAAAJ)
-- ✉️ **Email**: guoliang0803@gmail.com
+- ✉️ **Email**: 695890901@qq.com
