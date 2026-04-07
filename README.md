@@ -2,7 +2,7 @@
 
 **Senior Researcher at Tencent** | Shenzhen, China
 
-🔬 8+ years in **Recommendation Systems** & **Computational Advertising**, covering the full pipeline of retrieval, pre-ranking, ranking, and feature engineering.
+🔬 10+ years in **Recommendation Systems** & **Computational Advertising**, covering the full pipeline of retrieval, pre-ranking, ranking, and feature engineering.
 
 🎓 M.S. from **National University of Defense Technology (NUDT)** · B.S. from **Beijing University of Posts and Telecommunications (BUPT)**
 
