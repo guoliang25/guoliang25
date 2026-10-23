@@ -4,16 +4,8 @@
 
 🔬 10+ years in **Recommendation Systems** & **Computational Advertising**, covering the full pipeline of retrieval, pre-ranking, ranking, and feature engineering.
 
-🎓 M.S. from **National University of Defense Technology (NUDT)** · B.S. from **Beijing University of Posts and Telecommunications (BUPT)**
-
 ### 🏷️ Research Interests
 `Recommendation Systems` `Computational Advertising` `Deep Learning` `NLP` `LLM` `Multi-Objective Optimization` `Multimodal Understanding`
-
-### 🏆 Highlights
-- 📄 **21 patents filed** (4 granted) as first inventor
-- 🏅 Selected for **Shenzhen Innovation Center Expert Talent Pool** (2022)
-- ⭐ Tencent Annual **Outstanding Expert** on internal consulting platform (2023, rated 98.55/100)
-- 🥇 Tencent 4/5-Star Employee for multiple consecutive years
 
 ### 📈 Side Interests
 - Quantitative Trading — RL-based strategies & multi-factor models for A-shares
@@ -22,4 +14,3 @@
 ### 📫 Links
 - 🌐 **Homepage**: [guoliang25.github.io](https://guoliang25.github.io/)
 - 🎓 **Google Scholar**: [publications](https://scholar.google.com.hk/citations?user=Jbek4AQAAAAJ)
-- ✉️ **Email**: 695890901@qq.com
